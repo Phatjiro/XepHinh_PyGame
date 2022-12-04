@@ -1,0 +1,24 @@
+Di chuyển:
+	Mũi tên:
+		+Xuống
+		+Trái
+		+Phải
+	-> Di chuyển từng ô
+
+	Cách (space)
+	-> Di chuyển xuống liên tục cho đến khi chạm nền hoặc gạch
+Xoay: 
+	Mũi tên:
+		+Lên
+		+Nút c (phụ)
+	-> Xoay gạch
+Tạm dừng:
+	+Nút p
+	+Nút t (phụ)
+	-> Tạm dừng game. Nhấn p để tiếp tục
+Âm nhạc:
+	Chế độ nhạc:
+		+Nút 1 (nút này là nút hàng trên, chung với gõ kí tự !)
+		+Nút 2 (tương tự)
+		+Nút 3 (tương tự)
+	-> Lần lượt 3 chế độ: thường, remix, piano (ấn để bật, ấn thêm lần nữa để tắt)
